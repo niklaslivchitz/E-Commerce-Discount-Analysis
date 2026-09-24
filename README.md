@@ -20,10 +20,7 @@ Completed as a data analytics bootcamp project, working in a small group; indivi
 - Discount data was corrupted and had to be reconstructed from price stamps
 
 ## Technologies
-- Python 3.x
-- Pandas (data manipulation)
-- Seaborn (visualization)
-- Google Sheets (presentation)
+- Python, Pandas, Seaborn, Google Sheets
 
 ## Repository Structure
 ```
@@ -49,12 +46,8 @@ Completed as a data analytics bootcamp project, working in a small group; indivi
 ## Limitations
 - Small sample size after data cleaning
 - No profit margin data available
-- Synthetic data may not reflect real-world patterns
+- Synthetic data is always an issue
 
-## Future Work
-- Implement proper discount tracking in database schema
-- A/B testing framework for discount strategies
-- Incorporate customer lifetime value metrics
 
 ## Author
 Author: Niklas Livchitz — independent analysis in discount_analysis/ and discount_analysis_seaborn/
